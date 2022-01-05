@@ -12,4 +12,4 @@ Projeto do Bootcamp da DIO/Eduzz para demonstrar dominio dos conceitos básicos 
 <p><code>yarn start</code> para executar localmente em http://localhost:3000/</p>
 
 
-<p>Acesse o link para ver o projeto online!</p>
+<p>Acesse o link para ver o projeto online!  http://www.projeto-github.herokuapp.com/ </p>
